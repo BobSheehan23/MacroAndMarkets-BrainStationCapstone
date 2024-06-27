@@ -3,6 +3,13 @@
 ## Project Overview
 The goal of this project is to create a machine learning model that helps non-expert investors optimize their investment choices. By leveraging machine learning techniques, the model aims to uncover complex connections between economic indicators and market regimes, thereby aiding in Tactical Asset Allocation.
 
+# Project Organization
+- Data Loading/Cleaning
+- Exploratory Data Analysis
+- Preprocessing
+- Modelling
+- Findings
+
 ## Problem Area
 The intersection of Economics and Finance, particularly Tactical Asset Allocation, presents significant challenges. The economy and financial markets do not always move in tandem, and different market segments may perform variably depending on the economic business cycle. Currently, only the financial industry and their clients have the resources to understand and act on these patterns effectively.
 
