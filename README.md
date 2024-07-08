@@ -14,7 +14,7 @@ The goal of this project is to create a machine learning model that helps non-ex
 The intersection of Economics and Finance, particularly Tactical Asset Allocation, presents significant challenges. The economy and financial markets do not always move in tandem, and different market segments may perform variably depending on the economic business cycle. Currently, only the financial industry and their clients have the resources to understand and act on these patterns effectively.
 
 ## Proposed Data Science Solution
-The solution involves using machine learning algorithms, including supervised learning (regression and classification) and unsupervised learning (clustering), to identify intricate relationships between economic indicators and market regimes. Advanced techniques like Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks will be employed to capture temporal patterns in economic and market data.
+The solution involves using machine learning algorithms, including supervised learning (regression and classification) and unsupervised learning (clustering), to identify intricate relationships between economic indicators and market regimes. Advanced techniques like Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks may eventually be employed to capture temporal patterns in economic and market data.
 
 ## Impact of the Solution
 This project has the potential to significantly benefit non-expert investors by optimizing their investment choices, saving them both time and money. Unlike existing options such as robo-advisors and human financial advisors, this service aims to provide professional-grade insights at a low cost or even for free.
